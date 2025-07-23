@@ -1,5 +1,5 @@
 # Document classification using SVM
-This notebook 
+This notebook trains an SVM model on the 20 Newsgroups dataset available in sklearn.
 
 ## Installation guide
 
